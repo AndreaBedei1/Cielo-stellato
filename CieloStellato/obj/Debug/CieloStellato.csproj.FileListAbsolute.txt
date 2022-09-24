@@ -1,0 +1,15 @@
+C:\Users\andrea.bedei\Desktop\2019-01-09\CieloStellato3\CieloStellato\bin\Debug\CieloStellato.exe.config
+C:\Users\andrea.bedei\Desktop\2019-01-09\CieloStellato3\CieloStellato\bin\Debug\CieloStellato.exe
+C:\Users\andrea.bedei\Desktop\2019-01-09\CieloStellato3\CieloStellato\bin\Debug\CieloStellato.pdb
+C:\Users\andrea.bedei\Desktop\2019-01-09\CieloStellato3\CieloStellato\obj\Debug\CieloStellato.csprojAssemblyReference.cache
+C:\Users\andrea.bedei\Desktop\2019-01-09\CieloStellato3\CieloStellato\obj\Debug\MainWindow.g.cs
+C:\Users\andrea.bedei\Desktop\2019-01-09\CieloStellato3\CieloStellato\obj\Debug\App.g.cs
+C:\Users\andrea.bedei\Desktop\2019-01-09\CieloStellato3\CieloStellato\obj\Debug\CieloStellato_MarkupCompile.cache
+C:\Users\andrea.bedei\Desktop\2019-01-09\CieloStellato3\CieloStellato\obj\Debug\CieloStellato_MarkupCompile.lref
+C:\Users\andrea.bedei\Desktop\2019-01-09\CieloStellato3\CieloStellato\obj\Debug\MainWindow.baml
+C:\Users\andrea.bedei\Desktop\2019-01-09\CieloStellato3\CieloStellato\obj\Debug\CieloStellato.g.resources
+C:\Users\andrea.bedei\Desktop\2019-01-09\CieloStellato3\CieloStellato\obj\Debug\CieloStellato.Properties.Resources.resources
+C:\Users\andrea.bedei\Desktop\2019-01-09\CieloStellato3\CieloStellato\obj\Debug\CieloStellato.csproj.GenerateResource.cache
+C:\Users\andrea.bedei\Desktop\2019-01-09\CieloStellato3\CieloStellato\obj\Debug\CieloStellato.csproj.CoreCompileInputs.cache
+C:\Users\andrea.bedei\Desktop\2019-01-09\CieloStellato3\CieloStellato\obj\Debug\CieloStellato.exe
+C:\Users\andrea.bedei\Desktop\2019-01-09\CieloStellato3\CieloStellato\obj\Debug\CieloStellato.pdb

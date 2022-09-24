@@ -1,0 +1,18 @@
+﻿<Window x:Class="CieloStellato.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CieloStellato"
+        mc:Ignorable="d"
+        Title="Cielo Stellato" Height="620.647" Width="894.538" Loaded="carica" MinWidth="894.538" MinHeight="617.647" MaxWidth="894.538" MaxHeight="617.647" ResizeMode="NoResize" Icon="stella.png" ShowInTaskbar="False" Closing="chiusura">
+    <Grid>
+        <ComboBox x:Name="cmbElemento" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="645,533,0,0" SelectionChanged="cnbElemento"/>
+        <ComboBox x:Name="cmbAggiungi" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="90,533,0,0" SelectionChanged="cnbAggiungi" MouseDown="aperture"/>
+        <Canvas x:Name="cnvCielo" HorizontalAlignment="Left" Height="516" VerticalAlignment="Top" Width="887" Background="Black">
+            <Image x:Name="Sfondo" Source="sfondo.jpg" Height="516" Width="887"/>
+        </Canvas>
+        <CheckBox x:Name="chkInseguimento" Content="Modalità inseguimento" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="350,525,0,0" Width="222" Checked="Attivo" Unchecked="Spento"/>
+        <Button x:Name="btnSvuota" Content="Pulisci" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="387,549,0,0" Click="btnSvuota_Click"/>
+    </Grid>
+</Window>
